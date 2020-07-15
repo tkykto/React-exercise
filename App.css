@@ -1,0 +1,14 @@
+.container{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+div{
+    color: black;
+}
+
+.button {
+    display: inline-flexbox;
+    
+}
